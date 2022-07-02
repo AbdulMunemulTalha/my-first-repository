@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: aqua;
+}
+
+.me{
+    background-color: rgb(201, 201, 201);
+    width: 50%;
+    margin: 0 auto;
+    padding: 50px;
+    margin-top: 100px;
+    height: 500px;
+    border-radius: 15px;
+
+      
+}
+
+.me h1{
+
+    margin-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.me p{
+
+    padding-top: 20px;
+    color: #000000;
+    text-align: justify;
+
+}
