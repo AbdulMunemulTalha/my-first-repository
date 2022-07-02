@@ -19,6 +19,12 @@ body{
       
 }
 
+.me:hover{
+    background-color: rgb(196, 243, 255);
+    text-overflow: inherit;
+}
+
+
 .me h1{
 
     margin-top: 150px;
